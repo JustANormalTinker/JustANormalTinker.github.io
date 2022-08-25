@@ -1,8 +1,1 @@
----
-layout: post
-title: About
----
-
-This is an example page!
-
-Actually, it has the same layout of a post...
+I am JustANormalTinker/Kingdutchisbad, this is a blog I made for fun I do not know why I did it, but I did it.
